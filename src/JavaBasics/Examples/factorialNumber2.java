@@ -1,4 +1,4 @@
-package JavaBasics.Loops;
+package JavaBasics.Examples;
 
 public class factorialNumber2 {
     public static void main(String[] args) {

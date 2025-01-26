@@ -1,4 +1,4 @@
-package JavaBasics;
+package JavaBasics.Examples;
 
 public class AreaOfRactangle {
     public static void main(String[] args) {
