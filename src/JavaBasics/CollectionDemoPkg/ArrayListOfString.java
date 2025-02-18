@@ -45,5 +45,12 @@ public class ArrayListOfString {
         al2.addAll(2,al);
         System.out.println(al);
         System.out.println(al2);
+
+        //Print arraylist using iterator:
+        Iterator itr = al.iterator();
+        while (itr.hasNext()){
+            System.out.println(itr.next());
+        }
+
     }
 }
