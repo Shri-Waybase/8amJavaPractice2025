@@ -44,6 +44,8 @@ public class VectorDemo {
         System.out.println("Capacity: "+v.capacity());
         v.set(2,"WWWW");
         System.out.println(v);
+        v.removeElementAt(5);
+        System.out.println(v);
 
     }
 
