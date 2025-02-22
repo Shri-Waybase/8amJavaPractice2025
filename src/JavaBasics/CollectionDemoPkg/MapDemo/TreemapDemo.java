@@ -21,8 +21,11 @@ public class TreemapDemo {
         System.out.println(tm.reversed());
         System.out.println(tm);
         System.out.println(tm.descendingKeySet());
+        System.out.println(tm);
         System.out.println(tm.lastKey());
+        System.out.println(tm);
         System.out.println(tm.firstKey());
         System.out.println(tm.descendingMap());
+        System.out.println(tm);
     }
 }
