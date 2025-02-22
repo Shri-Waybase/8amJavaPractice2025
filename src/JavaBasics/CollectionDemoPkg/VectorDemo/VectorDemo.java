@@ -1,6 +1,5 @@
-package JavaBasics.CollectionDemoPkg;
+package JavaBasics.CollectionDemoPkg.VectorDemo;
 
-import java.util.LinkedList;
 import java.util.Vector;
 
 public class VectorDemo {
